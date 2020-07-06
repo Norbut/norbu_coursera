@@ -101,6 +101,7 @@ p {
 		.col-lg-12 {
 		width: 100%
 		}
+/* Meium devics*/
 }
 @media (min-width: 768px) and (max-width: 991px)
 {
